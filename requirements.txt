@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+starlette
+requests
+prophet
+pandas
+plotly
